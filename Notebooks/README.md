@@ -39,15 +39,15 @@ The notebooks are organized in execution order:
 11. `11_Paired_Bootstrap_Model_Improvement.ipynb`  
     Performs paired bootstrap analysis of the final original-versus-modified model improvement.
 
-Dataset Access
+## Dataset Access
 
 The project uses:
 
-Cityscapes
-Link: https://www.cityscapes-dataset.com/
+- **Cityscapes**  
+  Link: https://www.cityscapes-dataset.com/
 
-ACDC — Adverse Conditions Dataset with Correspondences
-Link: https://acdc.vision.ee.ethz.ch/
+- **ACDC — Adverse Conditions Dataset with Correspondences**  
+  Link: https://acdc.vision.ee.ethz.ch/
 
 ## Running the Notebooks
 
